@@ -1,0 +1,2 @@
+0 Emergency vehicle
+1 Normal vehicle
